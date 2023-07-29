@@ -1,0 +1,14 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Vadim Savchenko <sawchenko.vadim@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "1.36.2"
+  }
+}
